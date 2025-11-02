@@ -45,19 +45,12 @@ A arquitetura segue o padrão **Medallion (Bronze → Silver → Gold)**, garant
 
 ---
 
-### **5. Consumo e Visualização**
-- Disponibilizei os dados através do **SQL Warehouse (Lakehouse)** para consultas otimizadas.  
-- Conectei o projeto ao **Power BI** via **Partner Connect**, criando dashboards dinâmicos com dados em tempo real.  
-
----
-
 ## ⚙️ Tecnologias Utilizadas
 - **Azure Databricks (Runtime, DLT, SQL Warehouse)**  
 - **Azure Data Lake Storage (ADLS)**  
 - **Unity Catalog**  
 - **PySpark / Python (POO)**  
 - **Delta Lake (ACID Transactions)**  
-- **Power BI**  
 
 ---
 
@@ -85,9 +78,8 @@ Durante o desenvolvimento, aprofundei meu conhecimento em:
 - Implementação de **cargas incrementais** e controle de histórico;  
 - Uso prático de **Delta Live Tables**;  
 - Boas práticas de **governança com Unity Catalog**;  
-- Integração de **pipelines analíticos com Power BI**.  
 
-Este projeto representa um marco importante na minha jornada para **dominar o Databricks e as práticas de Engenharia de Dados de nível enterprise**.  
+Este projeto representa um marco importante na minha jornada para **dominar o Databricks e as práticas de Engenharia de Dados**.  
 
 ---
 
@@ -138,19 +130,12 @@ The architecture follows the **Medallion pattern (Bronze → Silver → Gold)**,
 
 ---
 
-### **5. Consumption and Visualization**
-- Exposed the data through **SQL Warehouse (Lakehouse)** for optimized analytical queries.  
-- Integrated with **Power BI** via **Partner Connect** to create real-time dashboards and insights.  
-
----
-
 ## ⚙️ Technologies Used
 - **Azure Databricks (Runtime, DLT, SQL Warehouse)**  
 - **Azure Data Lake Storage (ADLS)**  
 - **Unity Catalog**  
 - **PySpark / Python (OOP)**  
 - **Delta Lake (ACID Transactions)**  
-- **Power BI**  
 
 ---
 
@@ -178,11 +163,7 @@ Throughout the development, I deepened my understanding of:
 - Implementing **incremental loads** and historical tracking;  
 - Building **Delta Live Tables (DLT)** workflows;  
 - Applying **Unity Catalog** for governance and reusability;  
-- Connecting analytical pipelines with **Power BI**.  
 
-This project marks an important milestone in my journey to **master Databricks and enterprise-level Data Engineering practices**.  
+This project marks an important milestone in my journey to **master Databricks and Data Engineering practices**.  
 
----
-
-## 🧰 Repository Structure
 
